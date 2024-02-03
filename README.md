@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Android Architecture**
 
-- 💬 Ask me about **Kotlin , C++**
+- 💬 Ask me about **Android Development , C++**
 
 - 📫 How to reach me **zeyadabdelsattar@gmail.commhttps://www.linkedin.com/in/zeyad-abdelsattar22/**
 
