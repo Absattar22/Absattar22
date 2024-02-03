@@ -1,8 +1,7 @@
 
 ![image1](https://github.com/Absattar22/Absattar22/assets/116181912/7cc395cb-d92f-4093-ab4c-aaf0e15443fc)
 
-<h1 align="center">Hi 👋, I'm Zeyad Abdelsattar</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B+Iam+Zeyad+Abdelsattar" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
