@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=11DBF7&background=1B5AFF00&center=true&random=false&width=435&lines=Hi+there+Iam+Zeyad;Iam+an++Android+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=11DBF7&background=1B5AFF00&center=true&random=false&width=435&lines=Hi+there+Iam+Zeyad;Iam+an++Android+developer" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/blog_header_v4.gif">
