@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=11DBF7&background=1B5AFF00&center=true&random=false&width=435&lines=Hi+there+Iam+Zeyad;Iam+an++Android+developer" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Android developer from Egypt</h3>
-![Alt text]([https://sample/url/name-of-gif-file.gif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/blog_header_v4.gif))
+![1_zy5IG2inEQSqeWyPJ7vo-g](https://github.com/Absattar22/Absattar22/assets/116181912/932b2822-20d7-4620-a533-db0fa107353a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
