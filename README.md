@@ -1,7 +1,7 @@
 
 ![1_zy5IG2inEQSqeWyPJ7vo-g](https://github.com/Absattar22/Absattar22/assets/116181912/ea69d495-426a-4f3d-8eb7-b23f37b0fbd5)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=11DBF7&background=1B5AFF00&center=true&random=false&width=435&lines=Hi+there+Iam+Zeyad;Iam+an++Android+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=11DBF7&background=1B5AFF00&center=true&vCenter=true&random=true&width=435&lines=Hi+there+Iam+Zeyad;Iam+an++Android+developer" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
