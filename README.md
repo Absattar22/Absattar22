@@ -3,8 +3,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&hcenter=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B+Iam+Zeyad+Abdelsattar" alt="Typing SVG" /></a>
 
-![dck0rb9-b7b5b2a1-a8fa-46fc-93fb-5011aedc8ff2](https://github.com/Absattar22/Absattar22/assets/116181912/e9a8c0ef-1d7f-4344-81d1-80c2101278d7)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
 
