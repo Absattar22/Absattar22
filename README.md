@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with  **Android Architecture**
 
-- 💬 Ask me about  **Kotlin , Flutter , C++**
+- 💬 Ask me about  **Kotlin , Dart , C++**
 
 - 📫 How to reach me  **zeyadabdelsattar@gmail.com ,www.linkedin.com/in/zeyad-abdelsattar22/**
 
