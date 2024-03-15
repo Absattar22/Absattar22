@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose , Flutter**
 
 - 🤝 I’m looking for help with **Android Architecture**
 
-- 💬 Ask me about **Kotlin , C++**
+- 💬 Ask me about **Kotlin , Flutter , C++**
 
 - 📫 How to reach me **www.linkedin.com/in/zeyad-abdelsattar22/**
 
