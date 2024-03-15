@@ -1,11 +1,12 @@
 
-![image1](https://github.com/Absattar22/Absattar22/assets/116181912/7cc395cb-d92f-4093-ab4c-aaf0e15443fc)
+![gif](https://github.com/Absattar22/Absattar22/assets/116181912/6fd5c81d-8a56-4b88-94ac-fa323fefb7e8)
+
 
 <h2 align="left">Hi 👋! My name is Zeyad and I'm a  Mobile App Developer, from Egypt</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/RbtJJPft2P7rcpbBdb/giphy.gif?cid=ecf05e470fejoi2d6racafo15671enqcuovqweu2oyxdt3x2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5NjJpOXgxaGZlcGptYXoxZjk5ZXlyb2swcW1tOWo1NXNxcGJsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
@@ -23,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
