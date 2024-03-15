@@ -3,13 +3,16 @@
 
 
 <h2 align="left">Hi 👋! I'm Zeyad and I'm a Mobile App Developer, from Egypt</h2>
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left"> I’m working as Mobile App Developer<br>- 📚 I'm currently learning Jetpack Compose & Flutter <br></p>
+<p align="left"> I’m working as Mobile App Developer<br>- 📚 I'm currently learning Jetpack Compose & Flutter <br> <br>- 💬 Ask me about Kotlin , Flutter ,c++ <br>- 📫 How to reach me: zeyadabdelsattar@gmail.com, https://www.linkedin.com/in/zeyad-abdelsattar22?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.   </p>
+
+
+
 
 ###
 
