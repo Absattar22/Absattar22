@@ -2,7 +2,16 @@
 ![Android](https://github.com/Absattar22/Absattar22/assets/116181912/dfad35d6-c6a9-470c-98e0-982f5c7703fd)
 
 
-<h2 align="left">Hi 👋! My name is Zeyad and I'm a  Mobile App Developer, from Egypt</h2>
+<h2 align="left">Hi 👋! I'm Zeyad and I'm a Mobile App Developer, from Egypt</h2>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left"> I’m working as Mobile App Developer<br>- 📚 I'm currently learning Jetpack Compose & Flutter <br></p>
+
+###
 
 ###
 
