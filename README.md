@@ -9,7 +9,15 @@
 
 ###
 
-<p align="left"> I’m working as Mobile App Developer<br>- 📚 I'm currently learning Jetpack Compose & Flutter <br> <br>- 💬 Ask me about Kotlin , Flutter ,c++ <br>- 📫 How to reach me: zeyadabdelsattar@gmail.com, https://www.linkedin.com/in/zeyad-abdelsattar22?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.   </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
+
+- 🌱 I’m currently learning **Jetpack Compose , Flutter**
+
+- 🤝 I’m looking for help with **Android Architecture**
+
+- 💬 Ask me about **Kotlin , C++**
+
+- 📫 How to reach me **zeyadabdelsattar@gmail.com ,www.linkedin.com/in/zeyad-abdelsattar22/**
 
 
 
