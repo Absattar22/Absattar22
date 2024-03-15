@@ -1,5 +1,5 @@
 
-[![gif](https://github.com/Absattar22/Absattar22/assets/116181912/6fd5c81d-8a56-4b88-94ac-fa323fefb7e8)](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/Absattar22/Absattar22/assets/116181912/92350f7c-025f-4bd4-a81d-57fc23c1b17a)
 
 
 <h2 align="left">Hi 👋! My name is Zeyad and I'm a  Mobile App Developer, from Egypt</h2>
