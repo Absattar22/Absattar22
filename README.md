@@ -15,9 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ My fav Quote
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://camo.githubusercontent.com/7f311c52df3a0bfc8058856a01f9a2e67986a83311ced9ca43e316333661c367/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Absattar22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
