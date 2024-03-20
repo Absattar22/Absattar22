@@ -5,7 +5,7 @@
 <h2 align="left">Hi 👋! I'm Zeyad and I'm a Mobile App Developer </h2>
 
 <div style="padding-top: 50px;">
-  <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5NjJpOXgxaGZlcGptYXoxZjk5ZXlyb2swcW1tOWo1NXNxcGJsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img align="right" align="center" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5NjJpOXgxaGZlcGptYXoxZjk5ZXlyb2swcW1tOWo1NXNxcGJsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
 
