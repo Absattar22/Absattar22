@@ -5,60 +5,23 @@
 <h2 align="left">Hi 👋! I'm Zeyad and I'm a Mobile App Developer, from Egypt</h2>
 
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
-
-- 🌱 I’m currently learning  **Jetpack Compose , Flutter**
-
-- 🤝 I’m looking for help with  **Android Architecture**
-
-- 💬 Ask me about  **Kotlin , Dart , C++**
-
-- 📫 How to reach me  **zeyadabdelsattar@gmail.com ,www.linkedin.com/in/zeyad-abdelsattar22/**
+# 💫 About Me:
+- 🌱 I’m currently learning Jetpack Compose , Flutter<br><br>- 🤝 I’m looking for help with Android Architecture<br><br>- 📫 How to reach me zeyadabdelsattar@gmail.com ,www.linkedin.com/in/zeyad-abdelsattar22/
 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Absattar22&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Absattar22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Absattar22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5NjJpOXgxaGZlcGptYXoxZjk5ZXlyb2swcW1tOWo1NXNxcGJsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/zeyad_abdelsattar?igsh=eG42dGtya2RiMmpk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
