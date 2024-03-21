@@ -4,7 +4,7 @@
 
 <h2 align="left">Hi 👋! I'm Zeyad and I'm a Mobile App Developer </h2>
 
-#  About Me:
+#  About Me :
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5NjJpOXgxaGZlcGptYXoxZjk5ZXlyb2swcW1tOWo1NXNxcGJsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 - 🌱 I’m currently learning **Jetpack Compose , Flutter**
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **zeyadabdelsattar@gmail.com,[www.linkedin.com/in/zeyad-abdelsattar](https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb)**
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Absattar22&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
