@@ -1,6 +1,8 @@
 ![Android](https://github.com/Absattar22/Absattar22/assets/116181912/dfad35d6-c6a9-470c-98e0-982f5c7703fd)
 
-<h2 align="left">Hi 👋! I'M Zeyad , a Mobile App Developer</h2>
+<h2 align="left">
+  <span class="animated-name">Hi 👋! I'm Zeyad and I'm a Mobile App Developer</span>
+</h2>
 
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5NjJpOXgxaGZlcGptYXoxZjk5ZXlyb2swcW1tOWo1NXNxcGJsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -20,3 +22,25 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Absattar22&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<style>
+@keyframes moveAndDisappear {
+  0% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  50% {
+    opacity: 1;
+    transform: translateX(50px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+}
+
+.animated-name {
+  display: inline-block;
+  animation: moveAndDisappear 3s forwards;
+}
+</style>
