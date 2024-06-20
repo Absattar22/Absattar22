@@ -1,6 +1,6 @@
 ![Android](https://github.com/Absattar22/Absattar22/assets/116181912/dfad35d6-c6a9-470c-98e0-982f5c7703fd)
 
-<h2 align="left">Hi 👋! I'M Zeyad , a Mobile App Developer</h2>
+<h2 align="left">Hi 👋! I'M Zeyad , A Passionate Mobile App Developer</h2>
 
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM5NjJpOXgxaGZlcGptYXoxZjk5ZXlyb2swcW1tOWo1NXNxcGJsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
