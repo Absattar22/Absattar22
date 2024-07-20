@@ -5,6 +5,11 @@
 <h2 align="left">Hi 👋! I'M Zeyad , A Passionate Mobile App Developer</h2>
 
 ###
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Absattar22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
