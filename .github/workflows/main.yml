@@ -14,18 +14,19 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Generate snake animation
+      - name: Checkout Code
+        uses: actions/checkout@v2  # Ensure you check out the code before generating the SVG
+
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Absattar22  # Ensure this is your GitHub username
+          github_user_name: Absattar22
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Push the generated files to the output branch
+
       - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
