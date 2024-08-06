@@ -16,6 +16,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Absattar22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div >
+    <div style="display: inline-block; height: 100%;">
+        <picture>
+            <!-- Dark theme -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Absattar22&theme=onestar&no-frame=true&column=8&row=1" />
+            <!-- Light theme -->
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Absattar221&theme=onedark&no-frame=true&column=8&row=1" />
+            <!-- Fallback image -->
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=8&row=1" alt="@Jonny0301's trophy stats" />
+        </picture>
+    </div>
+ 
+</div>
+
 ###
 
 <div align="center">
