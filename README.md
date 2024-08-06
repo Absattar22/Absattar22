@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Android Architecture**
 
-- 💬 Ask me about **flutter,Kotlin ,C++**
+- 💬 Ask me about **flutter , Mobile App Development , Git , Github**
 
 - 📫 How to reach me **zeyadabdelsattar@gmail.com ,https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/**
 
