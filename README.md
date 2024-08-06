@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **flutter,Kotlin ,C++**
 
-- 📫 How to reach me **zeyadabdelsattar@gmail.com ,www.linkedin.com/in/zeyad-abdelsattar22/**
+- 📫 How to reach me **zeyadabdelsattar@gmail.com ,https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OVtUGen-eqlUnMw0fUrPI9WacnLXDDlh/view?usp=sharing](https://drive.google.com/file/d/1OVtUGen-eqlUnMw0fUrPI9WacnLXDDlh/view?usp=sharing)
 
