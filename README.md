@@ -11,23 +11,9 @@
 
 ###
 
-<div align="center" style="display:flex; flex-direction:row;width:100%;">
-    <div style="display: inline-block; height: 100%;width:48%;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Absattar22&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="width:48%;" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" 
-style="width:48%;" />
-            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Absattar22&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Absattar22's stats " style="width:48%;"/>
-        </picture>
-    </div>
-   <div style="display:flex ; height: 100%;width:48%">
-      <picture>
-         <a href="https://github.com/Absattar22?tab=stars" style="width:48%;"> 
-           <img src="https://github-readme-streak-stats.herokuapp.com?user=Absattar22&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"alt="@Absattar22's github-readme-streak-stats"/>
-          </a>
-      </picture>
-  </div>
-</div>
+![Absattar22's Stats](https://github-readme-stats.vercel.app/api?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+![Absattar22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=cobalt&hide_border=true)
+![Absattar22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
