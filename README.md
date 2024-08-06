@@ -39,15 +39,15 @@
 ###
 
 <p align="center">
-  ![Absattar22's Stats](https://github-readme-stats.vercel.app/api?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="Absattar22's Stats"/>
 </p>
 
 <p align="center">
-  ![Absattar22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=cobalt&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=cobalt&hide_border=true" alt="Absattar22's Streak"/>
 </p>
 
 <p align="center">
-  ![Absattar22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="Absattar22's Top Languages"/>
 </p>
 
 ###
