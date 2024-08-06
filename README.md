@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="Absattar22's Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=cobalt&hide_border=true" alt="Absattar22's Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=cobalt&hide_border=false" alt="Absattar22's Streak"/>
 </p>
 
 
