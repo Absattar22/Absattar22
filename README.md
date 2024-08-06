@@ -2,14 +2,14 @@
 <h3 align="center">A passionate Mobile App developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb" alt="My Photo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb" alt="My Photo" width="100%" height="auto"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose , Flutter**
+- 🌱 I’m currently learning **Flutter,MVVM,Responsive Design**
 
-- 🤝 I’m looking for help with **Android Architecture**
+- 🤝 I’m looking for help with **Applications Architecture**
 
 - 💬 Ask me about **flutter , Mobile App Development , Git , Github**
 
