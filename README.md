@@ -7,13 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
-- 🌱 I’m currently learning **Flutter,MVVM,Responsive Design**
+- 🌱 I’m currently learning **Jetpack Compose , Flutter**
 
-- 🤝 I’m looking for help with **Applications Architecture**
+- 🤝 I’m looking for help with **Android Architecture**
 
 - 💬 Ask me about **flutter , Mobile App Development , Git , Github**
 
-- 📫 How to reach me **zeyadabdelsattar@gmail.com , https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/**
+- 📫 How to reach me:
+  - **[Gmail](mailto:zeyadabdelsattar@gmail.com)**
+  - **[LinkedIn](https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/)**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OVtUGen-eqlUnMw0fUrPI9WacnLXDDlh/view?usp=sharing)
 
@@ -53,12 +55,6 @@
 <div align="center">
   <a href="https://www.instagram.com/zeyad_abdelsattar/?igsh=eG42dGtya2RiMmpk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:zeyadabdelsattar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
