@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile App developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb" alt="My Photo" width="100%" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb" alt="App Developer" width="100%" height="auto"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
@@ -30,11 +30,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="Absattar22's Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="Absattar22's Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=cobalt&hide_border=true" alt="Absattar22's Streak"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Absattar22&theme=cobalt&hide_border=true" alt="Absattar22's Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="Absattar22's Top Languages"/>
 </p>
 
 <p align="center">
