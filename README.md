@@ -11,23 +11,22 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Absattar22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Absattar22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div >
-    <div style="display: inline-block; height: 100%;">
+<div align="center" style="display:flex; flex-direction:row;width:100%;">
+    <div style="display: inline-block; height: 100%;width:48%;">
         <picture>
-            <!-- Dark theme -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Absattar22&theme=onestar&no-frame=true&column=8&row=1" />
-            <!-- Light theme -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Absattar221&theme=onedark&no-frame=true&column=8&row=1" />
-            <!-- Fallback image -->
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jonny0301&theme=onestar&no-frame=true&column=8&row=1" alt="@Jonny0301's trophy stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Absattar22&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="width:48%;" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Jonny0301&theme=vue&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" 
+style="width:48%;" />
+            <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Absattar22&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Absattar22's stats " style="width:48%;"/>
         </picture>
     </div>
- 
+   <div style="display:flex ; height: 100%;width:48%">
+      <picture>
+         <a href="https://github.com/Absattar22?tab=stars" style="width:48%;"> 
+           <img src="https://github-readme-streak-stats.herokuapp.com?user=Absattar22&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"alt="@Absattar22's github-readme-streak-stats"/>
+          </a>
+      </picture>
+  </div>
 </div>
 
 ###
