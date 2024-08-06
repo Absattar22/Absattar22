@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeyad Abdelsattar</h1>
 <h3 align="center">A passionate Mobile App developer from Egypt</h3>
 
-https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb" alt="My Photo" width="200"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
@@ -12,9 +13,9 @@ https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb
 
 - 💬 Ask me about **flutter , Mobile App Development , Git , Github**
 
-- 📫 How to reach me **zeyadabdelsattar@gmail.com ,https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/**
+- 📫 How to reach me **zeyadabdelsattar@gmail.com , https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OVtUGen-eqlUnMw0fUrPI9WacnLXDDlh/view?usp=sharing](https://drive.google.com/file/d/1OVtUGen-eqlUnMw0fUrPI9WacnLXDDlh/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OVtUGen-eqlUnMw0fUrPI9WacnLXDDlh/view?usp=sharing)
 
 ###
 
@@ -65,3 +66,4 @@ https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb
 
 <p align="center">
   <img height="300" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0OTg4OTIsIm5iZiI6MTcyMTQ5ODU5MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIwVDE4MDMxMjomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0NmMzMzMyODAxZmMzYjM1MjIzZGZiMGIzMDc4OTg2MWI3MzBjNWRkODQzNTQ2YTg3NGJlOGJkMmMzOWE3YTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wBq1QUIhDPNLsREiTP4dxdzPgAw4-G-vYsw6nQuq43A"  />
+</p>
