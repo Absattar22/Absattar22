@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose , Flutter**
+- 🌱 I’m currently learning **Flutter,MVVM,Responsive Design**
 
-- 🤝 I’m looking for help with **Android Architecture**
+- 🤝 I’m looking for help with **Applications Architecture**
 
 - 💬 Ask me about **flutter , Mobile App Development , Git , Github**
 
