@@ -12,11 +12,11 @@
 
 - 💬 Ask me about **flutter , Mobile App Development , Git , Github**
 
-- 📫 How to reach me:
+- 📫 How to reach me :
   - **[Gmail](mailto:zeyadabdelsattar@gmail.com)**
   - **[LinkedIn](https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/)**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences :
   - **[My Resume](https://drive.google.com/file/d/1OVtUGen-eqlUnMw0fUrPI9WacnLXDDlh/view?usp=sharing)**
 
 ###
