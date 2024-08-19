@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter,MVVM,Responsive Design**
 
-- 🤝 I’m looking for help with **Applications Architecture**
+- 🤝 I’m looking for help with **Apps Architecture**
 
 - 💬 Ask me about **flutter , Mobile App Development , Git , Github**
 
