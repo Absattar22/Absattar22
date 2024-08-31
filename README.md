@@ -17,7 +17,7 @@
   - **[LinkedIn](https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/)**
 
 - 📄 Know about my experiences :
-  - **[My Resume](https://drive.google.com/file/d/1PfO0n3xZYU-cEb6TOYIZhJucOKu--FCh/view?usp=drivesdk)**
+  - **[My Resume](https://drive.google.com/file/d/1Ug8RmiPaYLkyGcF9ICmPImNZSm9Otz9s/view?usp=drivesdk)**
 
 ###
 
