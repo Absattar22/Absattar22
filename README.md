@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
-- 🌱 I’m currently learning **State Management,MVVM,Responsive Design**
+- 🌱 I’m currently learning **State Management,CLean Architecture**
 
 - 🤝 I’m looking for help with **Apps Architecture**
 
