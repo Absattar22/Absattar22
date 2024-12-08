@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Apps Architecture**
 
-- 💬 Ask me about **flutter , Mobile App Development , Git , Github**
+- 💬 Ask me about **flutter , Git , Github**
 
 - 📫 How to reach me :
   - **[Gmail](mailto:zeyadabdelsattar@gmail.com)**
