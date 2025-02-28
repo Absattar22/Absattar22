@@ -29,8 +29,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Absattar22&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="Absattar22's Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Absattar22&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"alt="@Absattar22's github-readme-streak-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Absattar22&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="48%" alt="@Absattar22's github-readme-streak-stats"/>
 </p>
+
 
 
 <p align="center">
