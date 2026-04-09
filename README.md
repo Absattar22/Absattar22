@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absattar22&label=Profile%20views&color=0e75b6&style=flat" alt="absattar22" /> </p>
 
-- 🌱 I’m currently learning **State Management , Animations**
+- 🌱 I’m currently learning **Animations**
 
-- 🤝 I’m looking for help with **Apps Architecture**
+- 🤝 I’m looking for help with **Apps Security**
 
 - 💬 Ask me about **flutter , Git , Github**
 
