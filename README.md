@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Zeyad Abdelsattar , A Passionate Mobile App Developer </h2>
+<h2 align="center">Hi 👋, I'm Zeyad Abdelsattar , A Passionate Flutter Developer </h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c45f3e9-03e3-4c86-bddb-9e275186b4eb" alt="App Developer" width="100%" height="auto"/>
