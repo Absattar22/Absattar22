@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Animations**
 
-- 🤝 I’m looking for help with **Apps Security**
+- 🤝 I’m looking for help with **App Security**
 
 - 💬 Ask me about **flutter , Git , Github**
 
@@ -17,7 +17,7 @@
   - **[LinkedIn](https://www.linkedin.com/in/zeyad-abdelsattar-4942462bb/)**
 
 - 📄 Know about my experiences :
-  - **[My Cv](https://drive.google.com/file/d/17acHyrw6pQV1-m2CMZhwu4_s5NxzLWcB/view?usp=sharing)**
+  - **[My Cv](https://drive.google.com/file/d/1_1TuD2imNuzHEkabFuJXzELzAfjiajDY/view?usp=sharing)**
 
 ###
 
